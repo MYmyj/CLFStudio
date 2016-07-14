@@ -1,0 +1,93 @@
+body{
+    font-family: "Helvetica Neue","Helvetica","Arial","PingFang SC",
+	"Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+}
+#box1{
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: 650px;
+	background-color: #b8f4ff;
+}
+#box4{
+	float: left;
+}
+#box4 p{
+	font-size: 25px;
+	line-height: 90px;
+	height: 90px;
+}
+#box2{
+	height: 150px;
+	width:65%;
+	background-color: #eaf786;
+	float: right;
+    margin-bottom: 0;
+    text-shadow: -10px -10px 30px grey;
+}
+#box3{
+	height: 350px;
+	width: 75%;
+	float: right;
+	clear:both;
+	background-color: #b8ffb8;
+	padding-top: 0px;
+	border-radius: 45px 0px 0px 45px;
+	position: relative;
+	top: -110px;
+	box-shadow: -8px -8px 8px grey;
+	opacity: 0.7;
+}
+#box5{
+	padding-top: 0px;
+	float: right;
+	padding-right: 300px;
+	position: relative;
+	top: -110px;
+}
+#box5 p{
+	line-height: 25px;
+	height: 25px;
+}
+#in1{
+	height: 350px;
+	padding-left: 80px;
+	padding-top: 30px;
+	float: left;
+}
+#in1 p{
+line-height: 30px;
+height: 30px;
+}
+#in2{
+	height: 350px;
+	padding-left: 500px;
+	padding-top: 80px;
+}
+#in2 table{
+	width:400px;
+	height: 50px;
+	font-size: 25px;
+}
+.line{
+	font-size: 80px;
+	text-align: center;
+	height: 50px;
+	line-height:50px; 
+	letter-spacing:1em;
+}
+input.sub{
+	background-color: #9cf;
+	padding: 5px;
+	border: none;
+	width: 80px;
+	height: 35px;
+	font-size: 18px;
+	outline: none;
+	letter-spacing: 2px;
+	color: #fff;
+}
+.inp{
+	border: none;
+	background-color: #9cf;
+}
